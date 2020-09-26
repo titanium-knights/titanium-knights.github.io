@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Digimax - Customization</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="assets/css/docs.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row flex-xl-nowrap">
+            <div class="col-12 col-md-3 col-xl-2 bd-sidebar">
+                <div class="logo-area py-2 py-sm-3 py-md-0 mx-md-3 mt-md-3 border-bottom d-flex align-items-center">
+                    <div class="logo pb-md-3">
+                        <a href="index.htm"><img src="assets/img/logo.png" alt="Logo"></a>
+                    </div>
+                    <button class="btn btn-link bd-search-docs-toggle d-md-none p-0 ml-auto" type="button" data-toggle="collapse" data-target="#bd-docs-nav" aria-controls="bd-docs-nav" aria-expanded="false" aria-label="Toggle docs navigation"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" role="img" focusable="false">
+                            <title>Menu</title>
+                            <path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22" />
+                        </svg></button>
+                </div>
+
+                <nav class="collapse bd-links" id="bd-docs-nav">
+                    <div class="bd-toc-item active">
+                        <a class="bd-toc-link" href="#">
+                            Getting started
+                        </a>
+
+                        <ul class="nav bd-sidenav">
+                            <li>
+                                <a href="index.htm">Introduction</a>
+                            </li>
+                            <li>
+                                <a href="file-structure.htm">File Structures</a>
+                            </li>
+                            <li class="active bd-sidenav-active">
+                                <a href="customization.htm">Customization</a>
+                            </li>
+                            <li>
+                                <a href="update.htm">Update</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="bd-toc-item active">
+                        <a class="bd-toc-link" href="#">
+                            Components
+                        </a>
+
+                        <ul class="nav bd-sidenav">
+                            <li>
+                                <a href="background-holder.htm">Background Image</a>
+                            </li>
+                            <li>
+                                <a href="buttons.htm">Buttons</a>
+                            </li>
+                            <li>
+                                <a href="icons.htm">Icons</a>
+                            </li>
+                            <li>
+                                <a href="media-player.htm">Media Player</a>
+                            </li>
+                            <li>
+                                <a href="social-icons.htm">Social Icon List</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="bd-toc-item active">
+                        <a class="bd-toc-link" href="#">
+                            Utilities
+                        </a>
+
+                        <ul class="nav bd-sidenav">
+                            <li>
+                                <a href="helpers.htm">Helpers</a>
+                            </li>
+                            <li>
+                                <a href="spacing.htm">Spacing</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+
+            <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 bd-content" role="main">
+                <h1 class="bd-title" id="content">Customization</h1>
+                <p class="bd-lead">Learn how to create your own style without changing the theme’s core files so you can take advantage of future updates.</p>
+                <hr>
+                <h2 id="quick-start">How to include a typeface?</h2>
+
+                <p class="mb-3">Add or change Digimax typography with the following instructions.</p>
+                <ul class="list-unstyled mw-100">
+                    <li><p>Import the stylesheet <code class="highlighter-rouge"><span class="nt">@import</span> <span class="na">url</span></code> from <code class="highlighter-rouge"><span class="s">"assets/css/style.css"</span></code> to change Google Font.</p>
+                    <div class="highlight">
+                    <pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- google fonts --&gt;</span>
+<span class="nt">@import</span> <span class="na">url</span><span class="s">('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&family=Roboto:wght@300;400&display=swap')</span>
+</code></pre>
+                </div></li>
+                    <li><p>Open <code class="highlighter-rouge"><span class="s">"assets/css/style.css"</span></code> files and simply replace the <code class="highlighter-rouge"><span class="s">font-family</span></code> from <code class="highlighter-rouge">&lt;body&gt;</code> and <code class="highlighter-rouge">&lt;heading&gt;</code> tag with yours.</p>
+                    <figure class="highlight"><pre><code class="language-css" data-lang="css"><span class="nc">body</span> <span class="p">{</span>
+    <span class="nl">font-family</span><span class="p">:</span> <span class="nb">'Poppins', sans-serif</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="nc">h1</span>,
+<span class="nc">h2</span>,
+<span class="nc">h3</span>,
+<span class="nc">h4</span>,
+<span class="nc">h5</span>,
+<span class="nc">h6</span> <span class="p">{</span>
+    <span class="nl">font-family</span><span class="p">:</span> <span class="nb">'Poppins', sans-serif</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="nc">p</span> <span class="p">{</span>
+    <span class="nl">font-family</span><span class="p">:</span> <span class="nb">'Roboto', sans-serif</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure></li>
+                </ul>
+                <h2 id="quick-start">How to change logo?</h2>
+
+                <p class="mb-3">To change logo simply go to <code class="highlighter-rouge"><span class="s">"assets/img/logo/logo.png"</span></code>. Then place your logo here.</p>
+                <figure class="highlight">
+                    <pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- Logo --&gt;</span>
+<span class="nt">&lt;a</span> <span class="na">class=</span><span class="s">"navbar-brand"</span> <span class="na">href=</span><span class="s">"#"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;img</span> <span class="na">class=</span><span class="s">"logo"</span> <span class="na">src=</span><span class="s">"assets/img/logo/logo.png"</span> <span class="na">alt=</span><span class="s">""</span><span class="nt">&gt;</span>
+<span class="nt">&lt;/a&gt;</span>
+</code></pre>
+                </figure>
+                <h2 id="quick-start">Dynamic Contact Form</h2>
+
+                <p class="mb-3">We have create dynamic contact form for you to easily start your business &amp; contact with your clients. You just have to change your desired <span class="s">email</span> address here <code class="highlighter-rouge"><span class="s">"assets/php/mail.php."</span></code></p>
+                <figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Set the recipient email address.</span>
+<span class="c1">// FIXME: Update this to your desired email address.</span>
+<span class="nx">$</span><span class="nb">recipient</span> <span class="p">=</span> <span class="s1">"hridoy1272@gmail.com"</span><span class="p">;</span></code></pre></figure>
+            </main>
+        </div>
+    </div>
+
+    <script src="assets/js/vendor/jquery-slim.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/docs.min.js"></script>
+</body>
+
+</html>
