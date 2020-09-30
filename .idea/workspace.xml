@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="961f2978-ad77-44f6-ae2b-8b1d7cceb675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/empty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/meet-the-team.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/bg/inner_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meet-team-b.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/blog-details-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-details-left-sidebar.html" afterDir="false" />
@@ -39,27 +33,14 @@
       <change beforePath="$PROJECT_DIR$/_site/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/meet-team-b.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/meet-team-b.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/portfolio-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-grid.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/portfolio-masonry.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-masonry.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/portfolio-minimal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-minimal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/portfolio-no-gap.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-no-gap.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-three-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-three-column.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-two-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-two-column.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-minimal.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-minimal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-no-gap.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-no-gap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teams.html" beforeDir="false" afterPath="$PROJECT_DIR$/teams.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sponsors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teams.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teams.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601400104471</updated>
-      <workItem from="1601400105796" duration="6859000" />
+      <workItem from="1601400105796" duration="7563000" />
+      <workItem from="1601432539918" duration="311000" />
     </task>
     <servers />
   </component>
