@@ -16,16 +16,19 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="961f2978-ad77-44f6-ae2b-8b1d7cceb675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/preloader.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/meet-the-team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/meet-the-team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/blog-details-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog-details-left-sidebar.html" afterDir="false" />
@@ -38,22 +41,13 @@
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/meet-team-b.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/meet-team-b.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-details-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-details-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-three-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-three-column.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-two-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-two-column.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-grid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-masonry.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-masonry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-minimal.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-minimal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-no-gap.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-no-gap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teams.html" beforeDir="false" afterPath="$PROJECT_DIR$/teams.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio-masonry.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-masonry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio-minimal.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-minimal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/portfolio-no-gap.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/portfolio-no-gap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sponsors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/teams.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teams.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,9 +77,11 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ITC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -93,7 +89,10 @@
       <recent name="C:\AriKamat\RoboticsProg\Website\website" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="961f2978-ad77-44f6-ae2b-8b1d7cceb675" name="Default Changelist" comment="" />
@@ -103,18 +102,33 @@
       <updated>1601400104471</updated>
       <workItem from="1601400105796" duration="7563000" />
       <workItem from="1601432539918" duration="311000" />
+      <workItem from="1601478968460" duration="928000" />
+      <workItem from="1601479917461" duration="151000" />
+      <workItem from="1601505749522" duration="476000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -126,5 +140,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1601402202592" />
+    <state x="922" y="227" key="SettingsEditor" timestamp="1601479735728">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="227" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601479735728" />
   </component>
 </project>
