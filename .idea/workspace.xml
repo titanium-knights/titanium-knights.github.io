@@ -21,15 +21,16 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/gab-branch" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="961f2978-ad77-44f6-ae2b-8b1d7cceb675" name="Default Changelist" comment="improved meet-team-b.html :smirk_cat:">
+    <list default="true" id="961f2978-ad77-44f6-ae2b-8b1d7cceb675" name="Default Changelist" comment=":fax:">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meet-team-b.html" beforeDir="false" afterPath="$PROJECT_DIR$/meet-team-b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,8 @@
       <workItem from="1601432539918" duration="311000" />
       <workItem from="1601478968460" duration="928000" />
       <workItem from="1601479917461" duration="151000" />
-      <workItem from="1601505749522" duration="1410000" />
+      <workItem from="1601505749522" duration="2237000" />
+      <workItem from="1601685768199" duration="2771000" />
     </task>
     <task id="LOCAL-00001" summary="improved meet-team-b.html :smirk_cat:">
       <created>1601506492713</created>
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601506734244</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":fax:">
+      <created>1601507203558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601507203558</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="origin/gab-branch" />
                       </list>
                     </value>
                   </entry>
@@ -141,7 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="improved meet-team-b.html :smirk_cat:" />
-    <option name="LAST_COMMIT_MESSAGE" value="improved meet-team-b.html :smirk_cat:" />
+    <MESSAGE value=":fax:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":fax:" />
   </component>
   <component name="WindowStateProjectService">
     <state x="702" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601506886825">
@@ -156,10 +166,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="227" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601479735728" />
-    <state x="552" y="234" key="Vcs.Push.Dialog.v2" timestamp="1601506739899">
+    <state x="552" y="234" key="Vcs.Push.Dialog.v2" timestamp="1601507206056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="234" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601506739899" />
+    <state x="552" y="234" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601507206056" />
     <state x="767" y="429" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601506281169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
