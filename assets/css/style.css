@@ -353,8 +353,8 @@ img {
 .btn.btn-bordered {
     background: transparent none repeat scroll 0 0;
     color: #444;
+    margin: 10px; //added
 }
-
 .btn.btn-bordered:hover,
 .btn.btn-bordered:focus,
 .btn.btn-bordered.active {
@@ -1612,8 +1612,8 @@ body.dark,
 
 .folder-img {
     position: relative;
-    top: 210px;
-    left: 25px;
+    top: 190px;
+    left: 22px;
     z-index: 1;
 }
 
