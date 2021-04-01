@@ -724,7 +724,7 @@ img {
 }
 
 .homepage-3 .welcome-area {
-    background: rgba(0, 0, 0, 0) url("../img/bg/welcome_bg_3.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) no-repeat scroll center center / cover;
 }
 
 .homepage-4 .welcome-area {
