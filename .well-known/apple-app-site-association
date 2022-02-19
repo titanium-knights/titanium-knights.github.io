@@ -1,4 +1,13 @@
 {
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["9DDM72ZZ79.io.github.titanium-knights.FTC-Scoring-App.Clip", "9DDM72ZZ79.io.github.titanium-knights.FTC-Scoring-App"],
+                "components": [
+                ]
+            }
+        ]
+    },
     "appclips": {
         "apps": ["9DDM72ZZ79.io.github.titanium-knights.FTC-Scoring-App.Clip"]
     }
