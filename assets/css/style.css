@@ -353,7 +353,7 @@ img {
 .btn.btn-bordered {
     background: transparent none repeat scroll 0 0;
     color: #444;
-    margin: 10px; //added
+    margin: 10px; /*added*/
 }
 .btn.btn-bordered:hover,
 .btn.btn-bordered:focus,
@@ -2964,4 +2964,14 @@ body.dark,
 .rtl .bg-overlay::after,
 .rtl .grad-hover::before {
     background: linear-gradient(135deg, #E0040B 0%, #fc5130 100%);
+}
+
+.fade-purple {
+    color: #000;
+    transition: all 1s;
+}
+
+.fade-purple:hover {
+    color: #7c4fe0;
+    text-shadow: #4e15c9 0px 0px 7px;
 }
